@@ -1,0 +1,74 @@
+button{
+    background: rgb(0, 0, 0);
+    padding-top: 4pX;
+    padding-inline: 0px;
+    border-width: 3px;
+    margin-top: 23px;
+    margin-left: 20px ;
+    margin-right:10px ;
+    text-align: center;
+    font-size: 30px  blue;
+    color: rgb(184, 241, 25);
+    border: 2px  solid black;
+    height: 12%;
+    width: 13%;
+    
+}
+.btn{
+    
+  
+    background: rgb(124, 124, 123);
+    padding: 2% 1% 1% 1% ;
+    border: 2px  solid black;
+    text-align: center;
+    height: 600px;
+    width: 300px;
+    border: 2px  solid black;
+
+    
+}
+body{
+    font-size: 10px;
+    color: red;
+    display: block;
+    
+}
+
+ 
+
+.tela{
+   background: rgb(75, 75, 75);
+   padding: 0%;
+   border: 2px  solid black;
+   height: 20%;
+    width: 98%;
+    
+    
+}
+.inf{
+   display: inline;
+  
+   
+    
+}
+#calendario{
+    padding-left: 62%;
+   
+}
+#NumeroTela{
+    background: black;
+   color: aliceblue ;
+   height: 86%;
+   width: 97%;
+   font-size: 50px;
+   margin: 0;
+   box-shadow: none;
+    border: none;
+    outline: none;
+   
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
